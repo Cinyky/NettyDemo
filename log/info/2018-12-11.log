@@ -1,0 +1,53 @@
+2018-12-11 19:47:50 [main] INFO  Main -info
+2018-12-11 19:47:50 [main] ERROR Main -error
+2018-12-11 19:49:42 [nioEventLoopGroup-2-1] INFO  com.cyy.demo.Server.WebSocketServer -webSocket started
+2018-12-11 19:49:51 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x40616dba, L:/192.168.3.222:9999 - R:/192.168.3.222:59088]
+2018-12-11 19:49:51 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 19:50:21 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x40616dba, L:/192.168.3.222:9999 - R:/192.168.3.222:59088] , 目前一共有1个在线
+2018-12-11 19:51:29 [nioEventLoopGroup-2-1] INFO  com.cyy.demo.Server.WebSocketServer -webSocket started
+2018-12-11 19:51:57 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x830f27fd, L:/192.168.3.222:9999 - R:/192.168.3.222:59111]
+2018-12-11 19:51:57 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 19:52:28 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x830f27fd, L:/192.168.3.222:9999 - R:/192.168.3.222:59111] , 目前一共有1个在线
+2018-12-11 19:54:33 [nioEventLoopGroup-2-1] INFO  com.cyy.demo.Server.WebSocketServer -webSocket started
+2018-12-11 19:54:51 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134]
+2018-12-11 19:54:51 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 19:54:57 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134] , 目前一共有1个在线
+2018-12-11 19:54:57 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134]
+2018-12-11 19:54:57 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134]
+2018-12-11 19:55:01 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134] , 目前一共有1个在线
+2018-12-11 19:55:01 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134]
+2018-12-11 19:55:01 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0x329ec478, L:/192.168.3.222:9999 - R:/192.168.3.222:59134]
+2018-12-11 19:55:41 [nioEventLoopGroup-2-1] INFO  com.cyy.demo.Server.WebSocketServer -webSocket started
+2018-12-11 19:55:43 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x2ae54101, L:/192.168.3.222:9999 - R:/192.168.3.222:59149]
+2018-12-11 19:55:43 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 19:55:45 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x2ae54101, L:/192.168.3.222:9999 - R:/192.168.3.222:59149] , 目前一共有1个在线
+2018-12-11 19:55:45 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x2ae54101, L:/192.168.3.222:9999 - R:/192.168.3.222:59149]
+2018-12-11 19:55:45 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(ridx: 0, widx: 1, cap: 3)) to channel: [id: 0x2ae54101, L:/192.168.3.222:9999 - R:/192.168.3.222:59149]
+2018-12-11 20:01:43 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x6e798bfc, L:/192.168.3.222:9999 - R:/192.168.3.222:59296]
+2018-12-11 20:01:43 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 20:01:49 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x6e798bfc, L:/192.168.3.222:9999 - R:/192.168.3.222:59296] , 目前一共有2个在线
+2018-12-11 20:01:49 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x6e798bfc, L:/192.168.3.222:9999 - R:/192.168.3.222:59296]
+2018-12-11 20:01:49 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(ridx: 0, widx: 2, cap: 6)) to channel: [id: 0x6e798bfc, L:/192.168.3.222:9999 - R:/192.168.3.222:59296]
+2018-12-11 20:02:10 [nioEventLoopGroup-2-1] INFO  com.cyy.demo.Server.WebSocketServer -webSocket started
+2018-12-11 20:03:47 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0x8d2ff436, L:/192.168.3.222:9999 - R:/192.168.3.222:59331]
+2018-12-11 20:03:47 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 20:03:48 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -new channel [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:03:48 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -请求是webSocket协议
+2018-12-11 20:03:50 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332] , 目前一共有2个在线
+2018-12-11 20:03:50 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x8d2ff436, L:/192.168.3.222:9999 - R:/192.168.3.222:59331]
+2018-12-11 20:03:50 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(ridx: 0, widx: 2, cap: 6)) to channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:03:50 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:03:50 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:04 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0x8d2ff436, L:/192.168.3.222:9999 - R:/192.168.3.222:59331] , 目前一共有2个在线
+2018-12-11 20:04:04 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0x8d2ff436, L:/192.168.3.222:9999 - R:/192.168.3.222:59331]
+2018-12-11 20:04:04 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0x8d2ff436, L:/192.168.3.222:9999 - R:/192.168.3.222:59331]
+2018-12-11 20:04:04 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.Server.WebSocketServer -channel close future  AbstractChannel$CloseFuture@176c74d1(success)
+2018-12-11 20:04:04 [nioEventLoopGroup-3-1] INFO  com.cyy.demo.handler.WebSocketServerHandler -异常信息：refCnt: 0
+2018-12-11 20:04:08 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332] , 目前一共有1个在线
+2018-12-11 20:04:08 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:08 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:10 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -receive textWebSocketFrame from channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332] , 目前一共有1个在线
+2018-12-11 20:04:10 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -消息已发送给[id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:10 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -write text: TextWebSocketFrame(data: UnpooledUnsafeHeapByteBuf(freed)) to channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:16 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -receive closeWebSocketFrame from channel: [id: 0xd5799a96, L:/192.168.3.222:9999 - R:/192.168.3.222:59332]
+2018-12-11 20:04:16 [nioEventLoopGroup-3-2] INFO  com.cyy.demo.Server.WebSocketServer -channel close future  AbstractChannel$CloseFuture@639db954(success)
